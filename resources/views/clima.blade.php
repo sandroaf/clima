@@ -17,7 +17,7 @@
             <button type="submit">Previsão</button>
         </form>
         <br>
-        <div>{{$clima}}</div>
+        <div>{{$clima.}}</div>
     </section>
     <footer>
         Laravel - Clima
